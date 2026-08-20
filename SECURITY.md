@@ -12,11 +12,12 @@ your first message. If sensitive evidence is needed, we will arrange a restricte
 
 Please give us a reasonable opportunity to fix the issue before disclosing it publicly.
 
-## Which company this reaches
+## Which company the report concerns
 
-This address reaches Kilo (Chirp USA, LLC d/b/a Kilo), which operates the platform and its services.
-Reports about Kilo hardware, distributed by Kilo IoT GmbH trading as Kilo Electronics, go to the same
-address and are routed to the right company. The two are separate companies sharing one intake point.
+Reports for repositories in this organization concern **CHIRP USA LLC**, which operates the
+Kilo/Fullchirp software platform and its services. Kilo is the platform and product name. Kilo IoT
+GmbH, also referred to as Kilo Electronics, is a separate hardware distributor and is not the platform
+operator.
 
 ## What this policy does not promise
 
