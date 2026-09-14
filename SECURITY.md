@@ -24,3 +24,7 @@ operator.
 This file does not set an acknowledgement time, a triage time, a remediation time, a supported-version
 period, or a disclosure credit. Those commitments are published only once they have been approved, and
 they are absent here because they are not yet in place.
+
+## Full reporting policy
+
+Read the [Kilo/Chirp vulnerability reporting policy](https://docs.kiloiot.io/trust-and-security/incident-response-and-vulnerability-reporting) for scope, research boundaries and reporting instructions.
